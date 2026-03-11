@@ -8,6 +8,14 @@ const nextConfig: NextConfig = {
     "http://127.0.0.1:3000",
     "http://192.168.1.102:3000"
   ],
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'res.cloudinary.com',
+      }
+    ]
+  },
 
   async rewrites() {
     return [

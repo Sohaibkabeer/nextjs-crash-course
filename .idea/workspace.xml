@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1070a2c-0a80-45dc-8923-0baba267c527" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/api/events/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/events/[slug]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.claude/skills/posthog-integration-nextjs-app-router/references/EXAMPLE.md" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/skills/posthog-integration-nextjs-app-router/references/EXAMPLE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.claude/skills/posthog-integration-nextjs-app-router/references/basic-integration-1.0-begin.md" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/skills/posthog-integration-nextjs-app-router/references/basic-integration-1.0-begin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.claude/skills/posthog-integration-nextjs-app-router/references/basic-integration-1.1-edit.md" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/skills/posthog-integration-nextjs-app-router/references/basic-integration-1.1-edit.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mongodb.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mongodb.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/events/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/events/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/EventCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/EventCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/booking.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/database/booking.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="55" />
+    <option name="cachedIndexableFilesCount" value="56" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -66,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\nextjs-crash-course\app\events\[slug]" />
       <recent name="D:\nextjs-crash-course\components" />
       <recent name="D:\nextjs-crash-course\app" />
       <recent name="D:\nextjs-crash-course" />
